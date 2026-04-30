@@ -1,7 +1,7 @@
 **Arthur Oliveira | Red Hat Partner TAM**
 
-- **Currently**: Designing and supporting hybrid cloud solutions across Core, Edge, and Far-Edge environments; specializing in Edge.
-- **Expertise**: Kubernetes, OpenShift, Ansible Automation.
+- **Currently**: Designing and supporting hybrid cloud solutions across Core, Edge, and Far-Edge environments; specializing in Edge and AI Hardware Accelerators.
+- **Expertise**: Kubernetes, OpenShift, Virtualization, Ansible Automation, Storage.
 - **Formerly**: Solutions Architect, Tech Lead, Sysadmin, AIX & Storage Expert.
 - **Interests**: Distributed Systems, Open Source, Linux, Containers, Agile Culture, Troubleshooting.
 
