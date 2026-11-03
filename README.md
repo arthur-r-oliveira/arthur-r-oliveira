@@ -1,7 +1,7 @@
 **Arthur Oliveira | Red Hat Partner TAM**  
 Porto, Portugal · [LinkedIn](https://www.linkedin.com/in/arthur-ricardo-de-oliveira-a07280b/)
 
-I design and support hybrid cloud solutions across **core, edge, and far-edge** — with recent focus on **industrial networking (PRP/HSR)**, **OpenShift / MicroShift**, and **RHEL Image Mode (bootc)** with GPU accelerators.
+I design and support hybrid cloud solutions across **core, edge, and far-edge**, with recent focus on **industrial networking (PRP/HSR)**, **OpenShift / MicroShift**, and **RHEL Image Mode (bootc)** with GPU accelerators for ISV Embedded and CCSP Partners.
 
 ### Currently working on
 - **[prp-on-openshift](https://github.com/arthur-r-oliveira/prp-on-openshift)** — Ansible automation for Single Node OpenShift on KVM/libvirt (Agent-based Installer), PRP topologies, and CI-verified failover ([test dashboard](https://arthur-r-oliveira.github.io/ocp-abi-local-sno/))
