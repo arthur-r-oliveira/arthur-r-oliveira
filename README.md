@@ -19,7 +19,7 @@ I design and support hybrid cloud solutions across **core, edge, and far-edge**,
 Kubernetes · OpenShift / MicroShift · Edge & industrial networking · Ansible · Virtualization · RHEL Image Mode (bootc) · Storage · AI/GPU accelerators
 
 ### Background
-Formerly Solutions Architect, Tech Lead, Sysadmin — AIX & storage. Interested in distributed systems, open source, Linux, containers, and deep troubleshooting.
+Formerly Solutions Architect, Tech Lead, AIX & Storage Sysadmin . Interested in distributed systems, open source, Linux, containers, and deep troubleshooting.
 
 <!---
 arthur-r-oliveira/arthur-r-oliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
